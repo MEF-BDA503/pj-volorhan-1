@@ -10,4 +10,4 @@ I finished Lesson X on the Udacity course. I did all the work required and all t
 
 ## Week 2 (Oct 10)
 
-+ [Here](files/interesting_examples.html) is my 5 interesting R examples.
++ [Here](files/interesting_examples2.html) is my 5 interesting R examples.
