@@ -16,4 +16,4 @@
 + [Here](files/interesting_examples2.html) is my 5 interesting R examples.
 
 ## Udacity Progress 
-I finished Lesson 3 on the Udacity course. I did all the work required and all the quizes. 
+I finished first 3 lessons on the Udacity course. I did all the work required and all the quizzes. 
