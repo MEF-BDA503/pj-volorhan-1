@@ -10,7 +10,7 @@
   + [İsmetcan HERGÜNŞEN](https://mef-bda503.github.io/pj-hergunsen/) 
 
 ### Udacity Update 
-I finished Lesson 4 on the Udacity course. I did all the work required and all the quizes. 
+I finished Lesson 3 on the Udacity course. I did all the work required and all the quizes. 
 
 ## Week 2 (Oct 10)
 
