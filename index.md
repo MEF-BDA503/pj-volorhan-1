@@ -9,7 +9,7 @@
   + [Ahsen Ceren KARASU](https://mef-bda503.github.io/pj-karasua/)
   + [Ahmetcan TEKİNCE](https://mef-bda503.github.io/pj-tekincea/)
   + [İsmetcan HERGÜNŞEN](https://mef-bda503.github.io/pj-hergunsen/) 
-  + [Me](https://mef-bda503.github.io/pj-volorhan-1/)
+  + [Volkan ORHAN (Me)](https://mef-bda503.github.io/pj-volorhan-1/)
 
 ## Week 2 (Oct 10)
 
