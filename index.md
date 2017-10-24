@@ -15,5 +15,5 @@
 
 + [Here](files/interesting_examples2.html) is my 5 interesting R examples.
 
-## Udacity Update 
+## Udacity Progress 
 I finished Lesson 3 on the Udacity course. I did all the work required and all the quizes. 
