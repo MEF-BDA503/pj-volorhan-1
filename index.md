@@ -11,9 +11,9 @@
   + [İsmetcan HERGÜNŞEN](https://mef-bda503.github.io/pj-hergunsen/) 
   + [Me](https://mef-bda503.github.io/pj-volorhan-1/)
 
-### Udacity Update 
-I finished Lesson 3 on the Udacity course. I did all the work required and all the quizes. 
-
 ## Week 2 (Oct 10)
 
 + [Here](files/interesting_examples2.html) is my 5 interesting R examples.
+
+## Udacity Update 
+I finished Lesson 3 on the Udacity course. I did all the work required and all the quizes. 
