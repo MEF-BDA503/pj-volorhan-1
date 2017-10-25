@@ -2,7 +2,7 @@
 
 ## Week 3 (Oct 24)
 
-+ The data set that I propose to use in my project is "Aircraft Crash Data". [Here](http://evds.tcmb.gov.tr/fame/webfactory/evdpw/rpt/36043.csv) is the data and my initial exploratory data analysis on it.
++ The data set that I propose to use in my project is "Aircraft Crash Data". [Here](hw2.html) is the data and my initial exploratory data analysis on it.
 
 + We decided on the groups. Our group name is **????** and other members are:
 
