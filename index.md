@@ -4,7 +4,7 @@
 
 + The data set that I propose to use in my project is "Aircraft Crash Data". [Here](hw2.html) is the data and my initial exploratory data analysis on it.
 
-+ We decided on the groups. Our group name is **????** and other members are:
++ We decided on the groups. Our group name is **NYC** and other members are:
 
   + [Ahsen Ceren KARASU](https://mef-bda503.github.io/pj-karasua/)
   + [Ahmetcan TEKİNCE](https://mef-bda503.github.io/pj-tekincea/)
