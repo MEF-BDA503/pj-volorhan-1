@@ -10,6 +10,8 @@
   + [Ahmetcan TEKİNCE](https://mef-bda503.github.io/pj-tekincea/)
   + [İsmetcan HERGÜNŞEN](https://mef-bda503.github.io/pj-hergunsen/) 
   + [Volkan ORHAN (Me)](https://mef-bda503.github.io/pj-volorhan-1/)
+  
++ A report that is prepared by our group members about Mef University’s place among its competitors and in the undergraduate market according to the university entrance examinations (YGS/LYS) can be reached in our [group page](https://mef-bda503.github.io/gpj-nyc/)
 
 ## Week 2 (Oct 10)
 
